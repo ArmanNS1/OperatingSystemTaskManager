@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OSTaskManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2049d101fda8e602d9fb13fee39b0f3a078e276d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OSTaskManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OSTaskManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
