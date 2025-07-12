@@ -26,9 +26,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.processGridView)).BeginInit();
             this.SuspendLayout();
 
-            // 
-            // processGridView
-            // 
             this.processGridView.AllowUserToAddRows = false;
             this.processGridView.AllowUserToDeleteRows = false;
             this.processGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -41,9 +38,6 @@
             this.processGridView.Size = new System.Drawing.Size(560, 350);
             this.processGridView.TabIndex = 0;
 
-            // 
-            // btnRefresh
-            // 
             this.btnRefresh.Location = new System.Drawing.Point(12, 375);
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(100, 30);
@@ -52,9 +46,6 @@
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
 
-            // 
-            // btnKill
-            // 
             this.btnKill.Location = new System.Drawing.Point(472, 375);
             this.btnKill.Name = "btnKill";
             this.btnKill.Size = new System.Drawing.Size(100, 30);
@@ -63,9 +54,6 @@
             this.btnKill.UseVisualStyleBackColor = true;
             this.btnKill.Click += new System.EventHandler(this.btnKill_Click);
 
-            // 
-            // Form1
-            // 
             this.ClientSize = new System.Drawing.Size(584, 421);
             this.Controls.Add(this.btnKill);
             this.Controls.Add(this.btnRefresh);
